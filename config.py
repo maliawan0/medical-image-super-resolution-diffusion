@@ -1,6 +1,7 @@
 # config.py
 
 # Paths
+import utils.session
 HR_PATH = "data/HR"
 LR_PATH = "data/LR"
 SAVE_DIR = "results"
